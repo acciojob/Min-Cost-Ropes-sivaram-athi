@@ -17,4 +17,4 @@ function mincost(arr)
     return totalCost;
 }
 
-// module.exports=mincost;
+module.exports=mincost;
